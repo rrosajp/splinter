@@ -60,7 +60,7 @@ Getting Started
 
 * `Installation <https://splinter.readthedocs.io/en/latest/install/install.html>`_
 
-* `Tutorial <https://splinter.readthedocs.io/en/latest/tutorial.html>`_
+* `Tutorial <https://splinter.readthedocs.io/en/latest/overview/tutorial.html>`_
 
 
 Pytest Plugins
